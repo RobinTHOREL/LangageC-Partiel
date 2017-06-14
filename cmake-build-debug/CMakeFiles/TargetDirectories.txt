@@ -1,0 +1,3 @@
+C:/Users/Kush/CLionProjects/Partiel/cmake-build-debug/CMakeFiles/Partiel.dir
+C:/Users/Kush/CLionProjects/Partiel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kush/CLionProjects/Partiel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
